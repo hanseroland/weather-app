@@ -11,8 +11,7 @@ Sinon faites npm run adroid ou npm run ios  pour démarrer les simulateurs corre
 
 ### LAGOS
 
-# ![lagos](https://github.com/hanseroland/wheater-app/blob/main/captures/IMG_1731.PNG)
-
+# ![lagos](https://github.com/hanseroland/weather-app/blob/main/captures/IMG_1731.PNG)
 ### Miami
 
 # ![miami](https://github.com/hanseroland/wheater-app/blob/main/captures/weatherApp.PNG)
